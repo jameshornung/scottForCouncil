@@ -131,6 +131,28 @@ CONTACT
   margin-bottom: 75px;
 }
 
+@media only screen and (max-width : 824px){
+  #email{
+    font-size: 20px;
+  }
+}
+
+/*+++++++++++
+VOTER INFO
++++++++++++ */
+#voterGuide{
+  margin-bottom: 70px;
+  margin-top: 70px;
+}
+
+#register{
+  color: black;
+}
+
+#register:hover{
+  color: blue;
+}
+
 /*+++++++++++
 FOOTER
 +++++++++++ */
