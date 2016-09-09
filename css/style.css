@@ -1,4 +1,38 @@
 /*+++++++++++
+HOME PAGE
++++++++++++ */
+
+.intro{
+  font-family: Baskerville, georgia, serif;
+  font-variant: small-caps;
+}
+
+#introName{
+  font-size: 82px;
+}
+
+/*+++++++++++
+BIO
++++++++++++ */
+
+#scottAtTdcj{
+  max-width: 300px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#groupPhoto{
+  width: 60%;
+  max-width: 850px;
+}
+
+.groupPhotoContainer{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+/*+++++++++++
 ISSUES
 +++++++++++ */
 
@@ -14,17 +48,20 @@ ISSUES
   max-height: 350px;
 }
 
-/*+++++++++++
-HOME PAGE
-+++++++++++ */
-
-.intro{
-  font-family: Baskerville, georgia, serif;
-  font-variant: small-caps;
+#scottOnIssues{
+  width: 100%;
+  margin-top: 10px;
 }
 
-#introName{
-  font-size: 82px;
+#firstRowIssues{
+  margin-top: 70px;
+  margin-bottom: 50px;
+
+}
+
+#secondRowIssues{
+  margin-bottom: 70px;
+
 }
 
 /*+++++++++++
@@ -72,9 +109,20 @@ IMAGES
 CONTACT
 +++++++++++ */
 
-#bigSam{
+#scottAndJudy{
   max-height: 350px;
-  margin-top: 50px;
+}
+
+#contactContent{
+  margin-top: 70px;
+}
+
+#email{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 /*+++++++++++
