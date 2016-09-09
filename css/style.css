@@ -16,6 +16,7 @@ BIO
 +++++++++++ */
 
 #scottAtTdcj{
+  width: 50%;
   max-width: 300px;
   margin-left: 10px;
   margin-top: 10px;
@@ -23,13 +24,18 @@ BIO
 }
 
 #groupPhoto{
-  width: 60%;
-  max-width: 850px;
+  width: 90%;
+  max-width: 700px;
 }
 
 .groupPhotoContainer{
   margin-top: 70px;
   margin-bottom: 70px;
+}
+
+#headshot{
+  width: 50%;
+  max-width: 300px;
 }
 
 /*+++++++++++
