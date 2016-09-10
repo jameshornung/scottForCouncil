@@ -46,6 +46,11 @@ ISSUES
   font-size: 30px;
 }
 
+#issueHeading{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
 .issuesHeading{
   color: black;
 }
@@ -60,13 +65,11 @@ ISSUES
 
 #scottOnIssues{
   width: 100%;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 #firstRowIssues{
-  margin-top: 70px;
   margin-bottom: 50px;
-
 }
 
 #secondRowIssues{
@@ -118,6 +121,10 @@ IMAGES
 @media only screen and (max-width : 415px){
   .bannerImage{
     width: 125%;
+  }
+
+  #longhorns{
+    
   }
 }
 
