@@ -162,12 +162,13 @@ VOTER INFO
   margin-top: 70px;
 }
 
-#register{
-  color: black;
+.btn{
+  margin-top: 20px;
+  background-color: #e65100;
 }
 
-#register:hover{
-  color: blue;
+.btn:hover{
+  background-color: #e65100;
 }
 
 /*+++++++++++
