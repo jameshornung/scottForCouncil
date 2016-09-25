@@ -11,6 +11,12 @@ HOME PAGE
   font-size: 82px;
 }
 
+@media only screen and (max-width : 400px){
+  .intro{
+    font-size: 40px;
+  }
+}
+
 /*+++++++++++
 BIO
 +++++++++++ */
